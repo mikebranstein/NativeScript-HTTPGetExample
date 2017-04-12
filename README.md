@@ -4,14 +4,32 @@ This is a simple NativeScript HTTP GET example that outputs the response from a 
 
 # How to Use
 
+Clone the repo:
+
+```
+git clone https://github.com/mikebranstein/NativeScript-HTTPGetExample
+```
+
+Change directories:
+
+```
+cd NativeScript-HTTPGetExample
+```
+
 Restore the npm packages:
 
-> npm install
+```
+npm install
+```
 
 Run as iOS or Android
 
-> tns run ios
+```
+tns run ios
+```
 
 or 
 
-> tns run android
+```
+tns run android
+```
