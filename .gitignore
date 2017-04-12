@@ -1,0 +1,7 @@
+hooks
+platforms
+node_modules
+lib
+.DS_Store
+*.DS_Store
+*.keystore
